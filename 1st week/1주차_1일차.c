@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("¸ğ°¢ÄÚ 1ÁÖÂ÷-1ÀÏÂ÷ ÀÎÁõ!");
+	printf("íˆíˆ!");
 
 	return 0;
 }
