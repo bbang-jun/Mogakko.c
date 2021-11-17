@@ -140,10 +140,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_1일차.c" />
-    <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_2일차.c" />
-    <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_3일차.c" />
-    <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_4일차.c" />
-    <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_5일차.c" />
+    <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_2일차.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_3일차.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_4일차.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\1주차_5일차.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
