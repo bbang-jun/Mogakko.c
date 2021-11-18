@@ -21,5 +21,17 @@
     <ClCompile Include="C:\Users\BYEONGJUN_KANG\Desktop\2주차_6일차_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2주차_7일차.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2주차_8일차.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2주차_9일차.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2주차_10일차.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
