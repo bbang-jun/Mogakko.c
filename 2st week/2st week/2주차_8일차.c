@@ -11,7 +11,7 @@ int main(void) {
 			max = score[i];
 	}
 
-	printf("%d", max);
+	printf("최고 득점자: %d", max);
 
 	return 0;
 }
