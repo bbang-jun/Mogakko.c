@@ -28,7 +28,7 @@ int arr_input(int* arr)
 		scanf("%d", &arr[i]);
 	}
 	
-	return arr;
+	return arr[10];
 }
 
 void find_max(int* arr, int size, int* result)
