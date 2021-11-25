@@ -24,5 +24,11 @@
     <ClCompile Include="3주차_13일차.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3주차_14일차.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3주차_15일차.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
